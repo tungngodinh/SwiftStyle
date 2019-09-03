@@ -37,11 +37,11 @@ let someClass = SomeModule.UsefulClass()
 
 - Các Protocols dạng ủy nhiệm hàm có hậu tố là Delegate, tham số đầu tiên là nguồn của delegate (e.g. CustomerControllerDelegate ...).
 
-### Nên
+Nên
 ```swift
 func customerController(_ controller: CustomerController, didSelect customerId: Int)
 ```
-### Không nên
+Không nên
 
 ```swift
 func didSelectCustomerId(controller: CustomerController, id: Int)
