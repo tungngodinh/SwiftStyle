@@ -1,6 +1,7 @@
 Sytle này tạo ra nhằm mục đích nhất quán việc đặt tên cho các dự án. Được tham khảo từ 
 
 [Swift.org API Design Guidelines](https://swift.org/documentation/api-design-guidelines)
+
 [Raywenderlich Style Guide](https://github.com/raywenderlich/swift-style-guide)
 
 ## Mục tiêu hướng tới
